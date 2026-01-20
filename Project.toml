@@ -1,7 +1,7 @@
 name = "HydroTools"
 uuid = "294268b8-e54f-4c05-b811-3a0e544380dd"
 version = "0.1.0"
-authors = ["Clay Karnis <claykarnis@gmail.com>"]
+authors = ["Clay Karnis"]
 
 [deps]
 GDAL = "add2ef01-049f-52c4-9ee2-e494f65e021a"

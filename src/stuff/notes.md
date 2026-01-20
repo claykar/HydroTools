@@ -10,14 +10,14 @@ $$
 ## Runoff Volume
 
 $$
-V_i ​= Q_i ​* A_cell​
+V_i ​= Q_i ​* A_{cell​}
 $$
 
 Q = runoff per cell
 A = cell area
 
 $$
-V_total​ = ∑V_i​
+V_{total}​ = ∑V_i​
 $$
 
 ## Runoff Velocity

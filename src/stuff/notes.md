@@ -14,6 +14,7 @@ V_i ​= Q_i ​* A_{cell​}
 $$
 
 Q = runoff per cell
+
 A = cell area
 
 $$
@@ -22,16 +23,17 @@ $$
 
 ## Runoff Velocity
 
-#### Kinematic wave
+### Kinematic wave
 
 $$
 v=k*S^{0.5}
 $$
 
 k = land-cover-based roughness factor
+
 S = local slope
 
-#### Manning without channel geometry
+### Manning without channel geometry
 
 $$
 v = \frac{1}{n}h^{2/3}S^{1/2}
@@ -40,9 +42,10 @@ $$
 Assumed shape, wide shallow flow
 
 h = runoff depth (from rainfall excess)
+
 n = surface roughness from land cover
 
-##### cell-to-cell travel time
+### cell-to-cell travel time
 
 $$
 t_i​= L_i/v_i​​
